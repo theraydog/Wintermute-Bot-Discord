@@ -1,5 +1,5 @@
-# wintermute-bot [![NPM version][npm-image]][npm-url]
-> A bot for discord to teach myself bot programming.
+# Wintermute-Bot
+> A bot for discord to teach myself bot programming. Clone at your own risk.
 
 ## Installation
 
@@ -13,3 +13,6 @@ $ npm install
 ```js
 $ npm run bot
 ```
+## License
+
+ © [Nunya]()
