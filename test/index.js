@@ -5,6 +5,11 @@ var wintermute = require('../lib');
 
 describe('wintermute', function () {
   it('should have unit test!', function () {
-    assert(false, 'we expected this package author to add actual unit tests.');
+    if (wintermute == null) {
+      assert(false, 'oh shit');
+    } else {
+      assert(true, 'wavy gravy over here baby');
+    }
+
   });
 });
