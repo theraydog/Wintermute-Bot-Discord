@@ -41,8 +41,11 @@
   "repository": "/wintermute-bot",
   "private": true,
   "dependencies": {
+    "chalk": "^1.1.3",
     "clapp": "^1.1.1",
     "discord.js": "^11.0.0",
-    "node-opus": "^0.2.4"
+    "moment": "^2.17.1",
+    "node-opus": "^0.2.4",
+    "string": "^3.3.3"
   }
 }
